@@ -1,5 +1,3 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Artem Grigorev -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;**Senior Site Reliability Engineer at Sertis, Bangkok**\
